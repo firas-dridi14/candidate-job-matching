@@ -1,0 +1,9 @@
+id,firma,beruf,stadt,faehigkeiten,min_erfahrung
+101,Beispiel Elektrotechnik GmbH,Elektriker,Berlin,Elektroinstallation;Photovoltaik,3
+102,Muster Smart Home KG,Elektriker,Berlin,Smart Home;KNX,2
+103,Test Solar GmbH,Elektriker,Potsdam,Photovoltaik;E-Mobilitaet,4
+104,Probe Schaltanlagen GmbH,Elektriker,Berlin,Schaltschrankbau;Pruefung DGUV V3,5
+105,Demo Heizung GmbH,Anlagenmechaniker SHK,Berlin,Heizungsbau;Waermepumpe,4
+106,Fiktiv Sanitaer KG,Anlagenmechaniker SHK,Berlin,Sanitaer;Rohrinstallation,2
+107,Muster Klima GmbH,Anlagenmechaniker SHK,Berlin,Klimatechnik;Lueftung,3
+108,Test Gas und Waerme GmbH,Anlagenmechaniker SHK,Potsdam,Gasinstallation;Heizungsbau,5

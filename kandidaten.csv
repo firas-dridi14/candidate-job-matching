@@ -1,0 +1,21 @@
+id,name,beruf,stadt,faehigkeiten,erfahrung_jahre
+1,Max Beispiel,Elektriker,Berlin,Elektroinstallation;Photovoltaik;KNX,5
+2,Anna Muster,Elektriker,Berlin,Elektroinstallation;Smart Home;Schaltschrankbau,3
+3,Jonas Test,Elektriker,Potsdam,Photovoltaik;E-Mobilitaet;Elektroinstallation,7
+4,Lena Probe,Elektriker,Berlin,Pruefung DGUV V3;Elektroinstallation,10
+5,Karim Demo,Elektriker,Hamburg,KNX;Smart Home;Elektroinstallation,4
+6,Sophie Fiktiv,Elektriker,Berlin,Photovoltaik;E-Mobilitaet,2
+7,Paul Beispiel,Elektriker,Berlin,Schaltschrankbau;Elektroinstallation;KNX,8
+8,Mia Muster,Elektriker,Brandenburg,Elektroinstallation;Photovoltaik,6
+9,Ali Test,Elektriker,Berlin,Smart Home;KNX;Photovoltaik,1
+10,Eva Probe,Elektriker,Berlin,Elektroinstallation;Pruefung DGUV V3;Schaltschrankbau,12
+11,Tim Demo,Anlagenmechaniker SHK,Berlin,Heizungsbau;Waermepumpe;Sanitaer,6
+12,Laura Fiktiv,Anlagenmechaniker SHK,Berlin,Sanitaer;Rohrinstallation,3
+13,Omar Beispiel,Anlagenmechaniker SHK,Potsdam,Waermepumpe;Heizungsbau;Gasinstallation,9
+14,Julia Muster,Anlagenmechaniker SHK,Berlin,Lueftung;Klimatechnik;Heizungsbau,5
+15,Felix Test,Anlagenmechaniker SHK,Berlin,Sanitaer;Heizungsbau;Rohrinstallation,2
+16,Nora Probe,Anlagenmechaniker SHK,Hamburg,Klimatechnik;Lueftung;Waermepumpe,7
+17,David Demo,Anlagenmechaniker SHK,Berlin,Gasinstallation;Heizungsbau;Waermepumpe,11
+18,Emma Fiktiv,Anlagenmechaniker SHK,Brandenburg,Sanitaer;Heizungsbau,4
+19,Yusuf Beispiel,Anlagenmechaniker SHK,Berlin,Waermepumpe;Klimatechnik,1
+20,Clara Muster,Anlagenmechaniker SHK,Berlin,Rohrinstallation;Sanitaer;Gasinstallation,8
